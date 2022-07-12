@@ -15,4 +15,4 @@
 
 ##### 👨‍💻 I’m fluent in `Java` `JavaScript` `Python`
 
-##### 🌱 I'm `graduate student`
+##### 🌱 I'm `Blockchain Backend Developer`
