@@ -5,4 +5,4 @@
 |**lang**| javascript, typescript, python, golang |
 |**framework & library**| gofiber, expressjs, reactjs |
 |**infrastructure**| aws |
-|**section**| blockchain |
+|**linked**| blockchain |
