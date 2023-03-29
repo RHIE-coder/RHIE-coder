@@ -1,15 +1,7 @@
 # Category of Tech. List
 
-| **LANGAUGE** |
-|:---:|
-| java |
-| javascript |
-| typescript |
-| python |
-| golang |
-| kotlin |
-| swift |
-| solidity |
-| csharp |
-| rust |
-
+| | **`List`**|
+|:---:|:---|
+|**lang**| javascript, typescript, python, golang |
+|**framework & library**| gofiber, expressjs, reactjs |
+|**section**| blockchain |
