@@ -26,8 +26,8 @@ You can find my work by searching in the `Repositories` tab's search bar. My Git
  - `status-maintain`: under maintenance, keep supporting
 
 #### @TECH(`tech-*`)
-
-*(List of technologies)*
+ - `tech-{{category}}`
+    - **[category list](./docs/tech-categories.md)**
 
 #### @MORE
  - `deprecated`: not managed anymore
