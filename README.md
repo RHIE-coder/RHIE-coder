@@ -32,6 +32,7 @@ You can find my work by searching in the `Repositories` tab's search bar. My Git
 #### @MORE
  - `deprecated`: not managed anymore
  - `contribution`: contributing to the development ecosystem
+ - `corporate`: work for a company (maybe most of all is private)
 
 
 <br><br><br>
