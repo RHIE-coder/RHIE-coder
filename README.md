@@ -10,19 +10,19 @@
 You can find my work by searching in the `Repositories` tab's search bar. My GitHub is categorized as follows:
 
 #### - TYPE(`type-*`)
- - `type-demo`
- - `type-service`
- - `type-library`
- - `type-framework`
- - `type-boilerplate`
- - `type-delivery`
- - `type-algorithm`
- - `type-research`
+ - `type-demo`: demonstration
+ - `type-service`: practical programs for solving real-world problems
+ - `type-library`: module for development
+ - `type-framework`: framework
+ - `type-boilerplate`: boilerplate
+ - `type-delivery`: content resource for sharing code
+ - `type-algorithm`: implement the algorithm 
+ - `type-research`: Analysis and study of technical standards, open source and programming languages, etc.
 
 #### - STATUS(`status-*`)
- - `status-todo`
- - `status-doing`
- - `status-done`
+ - `status-todo`: planned
+ - `status-doing`: ongoing
+ - `status-done`: finished
 
 #### - TECH(`tech-*`)
 
@@ -30,7 +30,6 @@ You can find my work by searching in the `Repositories` tab's search bar. My Git
 
 ### - NOT MANAGED ANYMORE
  - `deprecated`
-
 
 
 <br><br><br>
