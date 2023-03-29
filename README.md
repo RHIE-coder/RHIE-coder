@@ -9,7 +9,7 @@
 
 You can find my work by searching in the `Repositories` tab's search bar. My GitHub is categorized as follows:
 
-#### - TYPE(`type-*`)
+#### @TYPE(`type-*`)
  - `type-demo`: demonstration
  - `type-service`: practical programs for solving real-world problems
  - `type-library`: module for development
@@ -19,17 +19,19 @@ You can find my work by searching in the `Repositories` tab's search bar. My Git
  - `type-algorithm`: implement the algorithm 
  - `type-research`: Analysis and study of technical standards, open source and programming languages, etc.
 
-#### - STATUS(`status-*`)
+#### @STATUS(`status-*`)
  - `status-todo`: planned
  - `status-doing`: ongoing
- - `status-done`: finished
+ - `status-done`: completed
+ - `status-maintain`: under maintenance, keep supporting
 
-#### - TECH(`tech-*`)
+#### @TECH(`tech-*`)
 
 *(List of technologies)*
 
-### - NOT MANAGED ANYMORE
- - `deprecated`
+#### @MORE
+ - `deprecated`: not managed anymore
+ - `contribution`: contributing to the development ecosystem
 
 
 <br><br><br>
