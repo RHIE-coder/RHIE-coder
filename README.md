@@ -11,11 +11,13 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 
  - [Searching for repositories](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories)
  - [Searching topics](https://docs.github.com/en/search-github/searching-on-github/searching-topics)
+ - [Understanding the search syntax](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax)
 
-| Search Examples |
-|:---:|
-| *NOT* `deprecated` *in:topics* |
-| `type-demo` `status-doing` *in:topics* |
+| Search Examples | Description |
+|:---:|:---:|
+| *NOT* `deprecated` *in:topics* | find repositories exclude `deprecated`|
+| `type-demo` `status-doing` *in:topics* | find demo and ongoing repositories |
+| `type-demo` OR `type-service` OR `type-research`| find repositories that are demo or service or research |
 
 My GitHub is categorized as follows:
 
