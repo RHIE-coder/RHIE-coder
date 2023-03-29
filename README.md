@@ -5,6 +5,31 @@
 
 <br><br><br>
 
+## Journey TIP 🧭
+
+My GitHub is categorized as follows:
+
+#### - TYPE(`type-*`)
+ - demo
+ - service
+ - library
+ - framework
+ - boilerplate
+ - delivery
+ - algorithm
+ - research
+
+#### - STATUS(`status-*`)
+ - todo
+ - doing
+ - done 
+
+#### - TECH(`tech-*`)
+
+*(List of technologies)*
+
+<br><br><br>
+
 ## About Me 📚
 
 <img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="300" height="300" />
@@ -16,3 +41,6 @@
 ##### 👨‍💻 I’m fluent in `Java` `JavaScript` `Python`
 
 ##### 🌱 I'm `Blockchain Backend Developer`
+
+
+
