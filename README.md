@@ -12,6 +12,7 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
  - [Searching for repositories](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories)
  - [Searching topics](https://docs.github.com/en/search-github/searching-on-github/searching-topics)
  - [Understanding the search syntax](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/understanding-the-search-syntax)
+ - [Troubleshooting search queries](https://docs.github.com/en/search-github/getting-started-with-searching-on-github/troubleshooting-search-queries)
 
 | Search Examples | Description |
 |:---:|:---:|
