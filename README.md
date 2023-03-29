@@ -18,7 +18,7 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 |:---:|:---:|
 | *NOT* `deprecated` *in:topics* | find repositories exclude `deprecated`|
 | `type-demo` `status-doing` *in:topics* | find demo and ongoing repositories |
-| `type-demo` OR `type-service` OR `type-research`| find repositories that are demo or service or research |
+| `type-demo` *OR* `type-service` *OR* `type-research` *in:topics*| find repositories that are demo or service or research |
 
 My GitHub is categorized as follows:
 
