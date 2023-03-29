@@ -7,7 +7,17 @@
 
 ## Journey TIP 🧭
 
-You can find my work by searching in the `Repositories` tab's search bar. My GitHub is categorized as follows:
+You can find my work by searching in the [`Repositories tab's`](https://github.com/RHIE-coder?tab=repositories) search bar. 
+
+ - [Searching for repositories](https://docs.github.com/en/search-github/searching-on-github/searching-for-repositories)
+ - [Searching topics](https://docs.github.com/en/search-github/searching-on-github/searching-topics)
+
+| Search Examples |
+|:---:|
+| *NOT* `deprecated` *in:topics* |
+| `type-demo` `status-doing` *in:topics* |
+
+My GitHub is categorized as follows:
 
 #### @TYPE(`type-*`)
  - `type-demo`: demonstration
