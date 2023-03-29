@@ -27,7 +27,7 @@ You can find my work by searching in the `Repositories` tab's search bar. My Git
 
 #### @TECH(`tech-*`)
  - `tech-<category>`
-    - **[category list](./docs/tech-categories.md)**
+    - **[registered categories](./docs/tech-categories.md)**
 
 #### @MORE
  - `deprecated`: not managed anymore
