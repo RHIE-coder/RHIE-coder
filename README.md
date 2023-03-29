@@ -7,26 +7,31 @@
 
 ## Journey TIP 🧭
 
-My GitHub is categorized as follows:
+You can find my work by searching in the `Repositories` tab's search bar. My GitHub is categorized as follows:
 
 #### - TYPE(`type-*`)
- - demo
- - service
- - library
- - framework
- - boilerplate
- - delivery
- - algorithm
- - research
+ - `type-demo`
+ - `type-service`
+ - `type-library`
+ - `type-framework`
+ - `type-boilerplate`
+ - `type-delivery`
+ - `type-algorithm`
+ - `type-research`
 
 #### - STATUS(`status-*`)
- - todo
- - doing
- - done 
+ - `status-todo`
+ - `status-doing`
+ - `status-done`
 
 #### - TECH(`tech-*`)
 
 *(List of technologies)*
+
+### - NOT MANAGED ANYMORE
+ - `deprecated`
+
+
 
 <br><br><br>
 
