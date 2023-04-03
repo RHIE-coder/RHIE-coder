@@ -23,14 +23,14 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 My GitHub is categorized as follows:
 
 #### @TYPE(`type-*`)
- - `type-demo`: demonstration
+ - `type-demo`: demonstrations
  - `type-service`: practical programs for solving real-world problems
- - `type-library`: module for development
- - `type-framework`: framework
- - `type-boilerplate`: boilerplate
- - `type-delivery`: content resource for sharing code
- - `type-algorithm`: implement the algorithm 
- - `type-research`: Analysis and study of technical standards, open source and programming languages, etc.
+ - `type-library`: modules(a.k.a utilities, libraries) for development
+ - `type-framework`: frameworks
+ - `type-boilerplate`: boilerplates
+ - `type-shed`: to store resources which useful simple codes, scripts and contents etc.
+ - `type-algorithm`: to implement practical algorithms
+ - `type-research`: analysis and study of technical standards, open source and programming languages, etc.
 
 #### @STATUS(`status-*`)
  - `status-todo`: planned
@@ -47,7 +47,6 @@ My GitHub is categorized as follows:
  - `introduction`: to introduce
  - `contribution`: contributing to the development ecosystem
  - `corporate`: work for a company (maybe most of all is private)
-
 
 <br><br><br>
 
