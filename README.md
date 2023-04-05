@@ -23,7 +23,7 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 My GitHub is categorized as follows:
 
 #### @TYPE(`type-*`)
- - `type-demo`: demonstrations
+ - `type-demo`: demonstrations, prototypes
  - `type-service`: practical programs for solving real-world problems
  - `type-library`: modules(a.k.a utilities, libraries) for development
  - `type-framework`: frameworks
