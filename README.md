@@ -47,6 +47,7 @@ My GitHub is categorized as follows:
  - `introduction`: to introduce
  - `contribution`: contributing to the development ecosystem
  - `corporate`: work for a company (maybe most of all is private)
+ - `event`: run an event
 
 <br><br><br>
 
