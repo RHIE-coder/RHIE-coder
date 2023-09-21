@@ -1,10 +1,10 @@
 # Category of Tech. List
 
-| | **`List`**| **DESC** |
-|:---:|:---|:---|
-|**fdmt**| |**`fundamentals`** os, network, algorithm, ...|
-|**std**|  |**`standards`** ieee, rfc, ...|
-|**env**| |**`environments`** infura, install, ...|
-|**lang**|  |**`languages`** program language, markup language, ...|
-|**ext**|  |**`externals`** library, framework, ...|
-|**plat**|  |**`platforms`** cloud, 3rd-api, ... |
+| **`CATEGORY`**| **DESC** |
+|:---:|:---|
+|**fundamentals**| os, network, algorithm, ...|
+|**standards**| ieee, rfc, ...|
+|**environments**| infura, install, ...|
+|**languages**| program language, markup language, ...|
+|**externals**| library, framework, ...|
+|**platforms**| cloud, 3rd-api, ... |
