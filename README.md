@@ -21,6 +21,8 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 | `type-demo` `status-inprogress` *in:topics* | find demo and ongoing repositories |
 | `type-demo` *OR* `type-service` *OR* `type-research` *in:topics*| find repositories that are demo or service or research |
 
+**[more quick searching](./docs/quicksearch.txt)**
+
 My GitHub is categorized as follows:
 
 #### @PROJECT TYPE(`type-*`)
