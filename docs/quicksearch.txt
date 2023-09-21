@@ -6,3 +6,6 @@ NOT deprecated NOT status-revoke NOT status-done status-pending in:topics
 
  - only show inprogress valid repositories
 NOT deprecated NOT status-revoke NOT status-done status-inprogress in:topics
+
+ - only show watching valid repositories
+NOT deprecated NOT status-revoke NOT status-done status-watching in:topics
