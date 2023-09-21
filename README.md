@@ -38,7 +38,7 @@ My GitHub is categorized as follows:
 ##### INACTIVE STATUS
  - `status-planning`: planning is not finished yet
  - `status-pending`: finish planning, but not started yet
- - `status-revoke`: discard because of needless now, will be set `deprecated` 
+ - `status-revoke`: discarded because of needless now, will be set `deprecated` 
 
 
 ##### ACTIVE STATUS
