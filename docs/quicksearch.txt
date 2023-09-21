@@ -1,1 +1,8 @@
-NOT contribution NOT deprecated NOT status-revoke NOT status-done in:topics
+ - only show valid repositories
+NOT deprecated NOT status-revoke NOT status-done in:topics
+
+ - only show pending valid repositories
+NOT deprecated NOT status-revoke NOT status-done status-pending in:topics
+
+ - only show inprogress valid repositories
+NOT deprecated NOT status-revoke NOT status-done status-inprogress in:topics
