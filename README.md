@@ -23,7 +23,7 @@ You can find my work by searching in the [`Repositories tab's`](https://github.c
 
 My GitHub is categorized as follows:
 
-#### @TYPE(`type-*`)
+#### @PROJECT TYPE(`type-*`)
  - `type-demo`: demonstrations, prototypes
  - `type-service`: practical programs for solving real-world problems
  - `type-library`: modules(a.k.a utilities, libraries) for development
@@ -34,21 +34,30 @@ My GitHub is categorized as follows:
  - `type-research`: analysis and study of technical standards, open source and programming languages, etc.
 
 #### @STATUS(`status-*`)
- - `status-todo`: planned
- - `status-doing`: ongoing
- - `status-done`: completed
- - `status-maintain`: under maintenance, keep supporting
 
-#### @TECH(`tech-*`)
- - `tech-<category>`
-    - **[registered categories](./docs/tech-categories.md)**
+##### INACTIVE STATUS
+ - `status-planning`: planning is not finished yet
+ - `status-pending`: finish planning, but not started yet
+ - `status-revoke`: revoked, discard, just archive, will be go `deprecated`
 
-#### @MORE
- - `deprecated`: not managed anymore
- - `introduction`: to introduce
- - `contribution`: contributing to the development ecosystem
+
+##### ACTIVE STATUS
+ - `status-inprogress`: in progress, under developing
+ - `status-pause`: just pause temporarily
+ - `status-stop`: occured critical issue, need re-planning, will be go `status-planning` again
+ - `status-watching`: waitting for event or result
+ - `status-review`: review before done
+ - `status-done`: completed, under maintenance, no more new features
+
+#### @MORE INFORMATION
+ - `deprecated`: not managed anymore, revoked, so don't look at it
+ - `introduction`: just for introduce using markdown
+ - `contribution`: contributing to the development ecosystem (need status for detail)
  - `corporate`: work for a company (maybe most of all is private)
- - `event`: run an event
+ - `event`: run an event (need status for detail)
+
+#### @TECH TAGS **[registered categories](./docs/tech-categories.md)**
+ - check `.techtags` files in the repository
 
 <br><br><br>
 
