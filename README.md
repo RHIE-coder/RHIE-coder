@@ -62,11 +62,13 @@ My GitHub is categorized as follows:
 
 </details>
 
+![RHIE Coder's github stats](https://github-readme-stats.vercel.app/api?username=RHIE-coder&show_icons=true&theme=radical)
+
 <br/><br/><br/>
 
 ## About Me 📚
 
-<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="300" height="380" />
+<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="250" height="250" />
 
 ##### 📖 I’m currently learning `Golang` `React` `AWS`
 
@@ -76,4 +78,3 @@ My GitHub is categorized as follows:
 
 ##### 🌱 I'm `Blockchain Backend Developer`
 
-![RHIE Coder's github stats](https://github-readme-stats.vercel.app/api?username=RHIE-coder&show_icons=true&theme=radical)
