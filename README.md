@@ -1,6 +1,7 @@
 
 <h1 align="center">🐺 RHIE Programmer</h1>
 <div align="center"><img alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/programming.gif?raw=true" width="300" height="300" /></div>
+<h3 align="center">WELCOME!</h3>
 
 <br/><br/><br/>
 
@@ -68,7 +69,7 @@ My GitHub is categorized as follows:
 
 ## About Me 📚
 
-<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="250" height="250" />
+<img align="center top" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="250" height="250" />
 
 ##### 📖 I’m currently learning `Golang` `React` `AWS`
 
