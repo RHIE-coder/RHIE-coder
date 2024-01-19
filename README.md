@@ -71,11 +71,11 @@ My GitHub is categorized as follows:
 
 <img align="center top" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="250" height="250" />
 
-##### 📖 I’m currently learning `Golang` `React` `AWS`
+##### 📖 I’m currently learning `AuthN/AuthZ`
 
-##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Distributed System`
+##### ⚡️ I enjoy the most include `Distributed System`
 
-##### 👨‍💻 I’m fluent in `Java` `JavaScript` `Python`
+##### 👨‍💻 I’m fluent in `Java` `JS` `TS` `Python` `Golang`
 
-##### 🌱 I'm `Blockchain Backend Developer`
+##### 🌱 I'm `Backend Developer`
 
