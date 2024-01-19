@@ -1,8 +1,6 @@
-# 🐺 RHIE Programmer
 
-<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/programming.gif?raw=true" width="300" height="200" />
-
-![RHIE Coder's github stats](https://github-readme-stats.vercel.app/api?username=RHIE-coder&show_icons=true&theme=radical)
+<h1 align="center">🐺 RHIE Programmer</h1>
+<div align="center"><img alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/programming.gif?raw=true" width="300" height="300" /></div>
 
 <br/><br/><br/>
 
@@ -68,7 +66,7 @@ My GitHub is categorized as follows:
 
 ## About Me 📚
 
-<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="300" height="300" />
+<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/main/asset/better-better.gif?raw=true" width="300" height="380" />
 
 ##### 📖 I’m currently learning `Golang` `React` `AWS`
 
@@ -78,3 +76,4 @@ My GitHub is categorized as follows:
 
 ##### 🌱 I'm `Blockchain Backend Developer`
 
+![RHIE Coder's github stats](https://github-readme-stats.vercel.app/api?username=RHIE-coder&show_icons=true&theme=radical)
