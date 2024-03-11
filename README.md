@@ -37,6 +37,8 @@ My GitHub is categorized as follows:
 > - `type-shed`: to store resources which useful simple codes, scripts and contents etc.
 > - `type-algorithm`: to implement practical algorithms
 > - `type-research`: analysis and study of technical standards, open source and programming languages, etc.
+> - `type-documentation`: a repository organized primarily with a focus on documentation for explanatory purposes.
+
 
 #### @STATUS(`status-*`)
 
